@@ -43,7 +43,7 @@
   /* Об игре */
   .satellites {
     height: 800px;
-    background-image: url('../img/about-the-game/background-companion-full-700.png');
+    background-image: url('../img/about-the-game/background-companion-full-700.webp');
   }
   .satellites__info h3 {
     font-size: 52px;
@@ -100,7 +100,7 @@
 @media screen and (max-width: 600px) {
   /* Охотник на демонов */
   .demon-hunter-story {
-    background-image: url('../img/characters-demon-hunter/demon-hunter-background-whole.png');
+    background-image: url('../img/characters-demon-hunter/demon-hunter-background-whole.webp');
     background-size: 100%;
     background-position: center top;
     height: 1500px;
@@ -286,7 +286,7 @@
   }
   .equipment {
     height: 800px;
-    background-image: url('../img/about-the-game/background-equipment-500.png');
+    background-image: url('../img/about-the-game/background-equipment-500.webp');
     background-position: center 0%;
     padding: 0 8%;
     justify-content: flex-end;
