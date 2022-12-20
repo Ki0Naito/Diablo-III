@@ -62,14 +62,14 @@
     display: block !important;
   }
   .background-header {
-    background-image: url('../img/main/diablo-background.png');
+    background-image: url('../img/main/diablo-background.webp');
     background-size: cover;
     background-position: center;
     height: 550px;
   }
   .background-header__box-logo {
     height: 450px;
-    background-image: url('../img/main/diablo-lll-logo.png');
+    background-image: url('../img/main/diablo-lll-logo.webp');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: 15px center;
@@ -142,7 +142,7 @@
   /* Об игре */
   .introduction {
     height: 1604px;
-    background-image: url('../img/about-the-game/background-header-1000.png');
+    background-image: url('../img/about-the-game/background-header-1000.webp');
   }
   .introduction__block-1 {
     height: 70%;
@@ -166,7 +166,7 @@
   }
   .equipment {
     height: 600px;
-    background-image: url('../img/about-the-game/background-equipment-1000.png');
+    background-image: url('../img/about-the-game/background-equipment-1000.webp');
     background-position: center;
     padding: 0 8%;
     justify-content: flex-end;
@@ -185,7 +185,7 @@
   .satellites {
     height: 800px;
     background-color: black;
-    background-image: url('../img/about-the-game/background-companion-full.jpeg');
+    background-image: url('../img/about-the-game/background-companion-full.webp');
     background-size: 100%;
     background-position: center top;
     justify-content: flex-end;
@@ -279,7 +279,7 @@
   /* Об игре */
   .craft {
     height: 600px;
-    background-image: url('../img/about-the-game/background-craft-800.png');
+    background-image: url('../img/about-the-game/background-craft-800.webp');
     background-size: cover;
     background-position: center;
     padding: 0 9% 3%;
