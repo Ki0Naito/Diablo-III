@@ -1,7 +1,7 @@
 .background-header {
   width: 100%;
   height: 685px;
-  background-image: url('../img/main/background-header.png');
+  background-image: url('../img/main/background-header.webp');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -26,7 +26,7 @@
 .background-header__diablo {
   width: 82.6%;
   height: 90%;
-  background-image: url('../img/main/diablo-background.png');
+  background-image: url('../img/main/diablo-background.webp');
   background-size: cover;
   background-position: center;
   align-self: flex-end;
@@ -34,7 +34,7 @@
 .section-story {
   width: 100%;
   height: 830px;
-  background-image: url('../img/main/background-stone-1.png');
+  background-image: url('../img/main/background-stone-1.webp');
   background-size: cover;
   background-repeat: no-repeat;
   display: flex;
@@ -108,7 +108,7 @@
   height: 295px;
   width: 210px;
   border: 2px solid white;
-  background-image: url('../img/main/tristram.png');
+  background-image: url('../img/main/tristram.webp');
   background-size: cover;
   background-repeat: no-repeat;
   display: flex;
@@ -123,19 +123,19 @@
   font-size: 12px;
 }
 .section-location__card--caldeum {
-  background-image: url('../img/main/caldeum.png');
+  background-image: url('../img/main/caldeum.webp');
 }
 .section-location__card--arreat {
-  background-image: url('../img/main/mount-arreat.png');
+  background-image: url('../img/main/mount-arreat.webp');
 }
 .section-location__card--heaven {
-  background-image: url('../img/main/higher-heaven.png');
+  background-image: url('../img/main/higher-heaven.webp');
 }
 .section-location__card--heaven h3 {
   font-size: 23px;
 }
 .section-location__card--westmarch {
-  background-image: url('../img/main/westmarch.png');
+  background-image: url('../img/main/westmarch.webp');
 }
 .section-location__card:hover {
   filter: brightness(75%) contrast(120%);
@@ -151,7 +151,7 @@
   overflow-x: hidden;
   width: 100%;
   height: 875px;
-  background-image: url('../img/main/background-stone-2.png');
+  background-image: url('../img/main/background-stone-2.webp');
   background-size: cover;
   background-repeat: no-repeat;
   overflow: hidden;
