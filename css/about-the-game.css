@@ -1,7 +1,7 @@
 .introduction {
   width: 100%;
   height: 1204px;
-  background-image: url('../img/about-the-game/background-header.png');
+  background-image: url('../img/about-the-game/background-header.webp');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: 60% 50%;
@@ -88,7 +88,7 @@
 .introduction__img-one {
   width: 255px;
   height: 412px;
-  background-image: url('../img/about-the-game/upgrade-monk-1.png');
+  background-image: url('../img/about-the-game/upgrade-monk-1.webp');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -98,15 +98,15 @@
   border-image-source: linear-gradient(90deg, #800400, #fdd48c, #800400);
 }
 .introduction__img-one--second {
-  background-image: url('../img/about-the-game/upgrade-monk-2.png');
+  background-image: url('../img/about-the-game/upgrade-monk-2.webp');
 }
 .introduction__img-one--third {
-  background-image: url('../img/about-the-game/upgrade-monk-3.png');
+  background-image: url('../img/about-the-game/upgrade-monk-3.webp');
 }
 .equipment {
   width: 100%;
   height: 390px;
-  background-image: url('../img/about-the-game/background-equipment.png');
+  background-image: url('../img/about-the-game/background-equipment.webp');
   background-size: cover;
   background-repeat: no-repeat;
   padding: 0 8% 0 36.5%;
@@ -146,7 +146,7 @@
 .craft {
   width: 100%;
   height: 390px;
-  background-image: url('../img/about-the-game/background-craft.png');
+  background-image: url('../img/about-the-game/background-craft.webp');
   background-size: cover;
   background-position: right;
   padding: 0 50% 0 9%;
@@ -202,7 +202,7 @@
 .satellites {
   width: 100%;
   height: 390px;
-  background-image: url('../img/about-the-game/background-companion.png');
+  background-image: url('../img/about-the-game/background-companion.webp');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
